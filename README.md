@@ -1,7 +1,10 @@
 # Ec3AngelCuchillo-Clinica
 
+Usuario: angel - Password: 111298
+
 DATA
 
+```sql
 create database clinicaEc3Idat;
 use clinicaEc3Idat;
 
@@ -15,3 +18,4 @@ insert into usuariocliente (usuario, password, rol,id_cliente) values ('angel', 
 insert into usuariocliente (usuario, password, rol,id_cliente) values ('user1', 'jYJ8HVDcHp33ThetvlIV0EF9iGnn1FX6#JqdkFT', 'user',2);
 insert into usuariocliente (usuario, password, rol,id_cliente) values ('user2', 'jYJ8HVDcHp33ThetvlIV0EF9iGnn1FX6#JqdkFT', 'user',3);
 insert into usuariocliente (usuario, password, rol,id_cliente) values ('user3', 'jYJ8HVDcHp33ThetvlIV0EF9iGnn1FX6#JqdkFT', 'user',4);
+```
